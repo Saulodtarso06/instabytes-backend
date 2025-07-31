@@ -1,0 +1,38 @@
+{
+  "name": "instabytes-portfolio",
+  "version": "1.0.0",
+  "description": "Site de portfolio para exibir imagens e publicações do InstaBytes.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx parcel --port 8000 index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "extends": "@parcel/config-default"
+  },
+  "homepage": "https://github.com/Saulo_FullStack_Developer/seu-repositorio.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saulo_FullStack_Developer/seu-repositorio"
+  },
+  "bugs": {
+    "url": "https://github.com/Saulo_FullStack_Developer/seu-repositorio/issues"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "parcel",
+    "javascript"
+  ],
+  "author": {
+    "name": "Saulo de Tarso",
+    "email": "saulo@example.com",
+    "url": "https://saulo.dev"
+  },
+  "contributors": [],
+    "dev": "npx parcel --port 8000 index.html",
+    "build": "parcel build index.html",
+    "start": "node index.js",
+    "test": "echo 'Nenhum teste configurado ainda'"
+}
