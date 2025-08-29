@@ -2,6 +2,10 @@
 
 Uma API Restful, com rotas, requisições e respostas HTTP manuais, que servissa dados para um portfólio fictício chamado InstaBytes, simulando publicações e imagens (como se fosse o instagram).
 
+<div align="center">
+  <img src="photos//screen.PNG" alt="Descrição da Imagem" width="300"/>
+</div>
+
 **IMPORTANTE:** É necessário ter o [Node.js](https://nodejs.org/) instalado em seu computador antes de executar os comandos de instalação e execução do projeto. Versão recomendada: v20.x.x.
 
 ## Clonando o repositório para o seu perfil no GitHub
